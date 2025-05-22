@@ -1,5 +1,8 @@
 # ndtiler
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![PyPI version](https://badge.fury.io/py/ndtiler.svg)](https://badge.fury.io/py/ndtiler)
+
 A lightweight Python package for iterative tiling over N-dimensional arrays.
 
 ## Overview
